@@ -1,0 +1,212 @@
+{
+    "the_world_s.mudamuda" : {
+	    "sounds":[
+		    "the_world_s/mudamuda"
+	    ]
+	},
+	"the_world_s.za_warudo_onvoice_dio" : {
+	    "sounds":[
+		    "the_world_s/za_warudo"
+	    ]
+	},
+	"the_world_s.za_warudo_onvoice_sutapura" : {
+	    "sounds":[
+		    "the_world_s/za_warudo_sutapura"
+	    ]
+	},
+	"the_world_s.za_warudo_offvoice" : {
+	    "sounds":[
+		    "the_world_s/za_warudo2"
+	    ]
+	},
+	"the_world_s.get" : {
+	    "sounds":[
+		    "the_world_s/get"
+	    ]
+	},
+	"the_world_s.time_resumes_onvoice_dio" : {
+	    "sounds":[
+		    "the_world_s/time_resumes"
+	    ]
+	},
+	"the_world_s.time_resumes_onvoice_sutapura" : {
+	    "sounds":[
+		    "the_world_s/time_resumes_sutapura"
+	    ]
+	},
+	"the_world_s.time_resumes_offvoice" : {
+	    "sounds":[
+		    "the_world_s/time_resumes2"
+	    ]
+	},
+	"the_world_s.road_roller" : {
+	    "sounds":[
+		    "the_world_s/road_roller"
+	    ]
+	},
+	"the_world_s.stando_powa" : {
+	    "sounds":[
+		    "the_world_s/stando_powa"
+	    ]
+	},
+	"the_world_s.greatest_high" : {
+	    "sounds":[
+		    "the_world_s/greatest_high"
+	    ]
+	},
+	"the_world_s.honmuda" : {
+	    "sounds":[
+		    "the_world_s/honmuda"
+	    ]
+	},
+	"the_world_s.shinei" : {
+	    "sounds":[
+		    "the_world_s/shinei"
+	    ]
+	},
+	"the_world_s.donut" : {
+	    "sounds":[
+		    "the_world_s/donut"
+	    ]
+	},
+	"the_world_s.kakyoind" : {
+	    "sounds":[
+		    "the_world_s/kakyoind"
+	    ]
+	},
+	"the_world_s.skip_long" : {
+	    "sounds":[
+		    "the_world_s/skip"
+	    ]
+	},
+	"the_world_s.skip_short" : {
+	    "sounds":[
+		    "the_world_s/skip2"
+	    ]
+	},
+	"the_world_s.knives" : {
+	    "sounds":[
+		    "the_world_s/knives"
+	    ]
+	},
+	"the_world_s.mudaaa" : {
+	    "sounds":[
+		    "the_world_s/mudaaa"
+	    ]
+	},
+	"the_world_s.wryyy" : {
+	    "sounds":[
+		    "the_world_s/wryyy"
+	    ]
+	},
+	"the_world_s.knife_hit" : {
+	    "sounds":[
+		    "the_world_s/knife_hit"
+	    ]
+	},
+	"king_crimson_s.time_erase" : {
+	    "sounds":[
+		    "king_crimson_s/time_erase"
+	    ]
+	},
+	"king_crimson_s.time_erase_2" : {
+	    "sounds":[
+		    "king_crimson_s/time_erase_2"
+	    ]
+	},
+	"king_crimson_s.get" : {
+	    "sounds":[
+		    "king_crimson_s/get"
+	    ]
+	},
+	"king_crimson_s.skip" : {
+	    "sounds":[
+		    "king_crimson_s/skip"
+	    ]
+	},
+	"king_crimson_s.epitaph" : {
+	    "sounds":[
+		    "king_crimson_s/epitaph"
+	    ]
+	},
+	"gold_experience_s.goldexperience" : {
+	    "sounds":[
+		    "gold_experience_s/goldexperience"
+	    ]
+	},
+	"gold_experience_s.get" : {
+	    "sounds":[
+		    "gold_experience_s/get"
+	    ]
+	},
+	"made_in_heaven_s.time_acceleration" : {
+	    "sounds":[
+		    "made_in_heaven_s/time_acceleration"
+	    ]
+	},
+	"made_in_heaven_s.time_acceleration_3" : {
+	    "sounds":[
+		    "made_in_heaven_s/time_acceleration_3"
+	    ]
+	},
+	"made_in_heaven_s.get" : {
+	    "sounds":[
+		    "made_in_heaven_s/get"
+	    ]
+	},
+	"made_in_heaven_s.time_acceleration_2" : {
+	    "sounds":[
+		    "made_in_heaven_s/time_acceleration_2"
+	    ]
+	},
+	"splatoonseries.marumisa_voice" : {
+	    "sounds":[
+		    "splatoon/marumisa"
+	    ]
+	},
+	"splatoonseries.marumisa_start" : {
+	    "sounds":[
+		    "splatoon/marumisa_start"
+	    ]
+	},
+	"splatoonseries.marumisa_hassya" : {
+	    "sounds":[
+		    "splatoon/marumisa_hassya"
+	    ]
+	},
+	"splatoonseries.marumisa_attack" : {
+	    "sounds":[
+		    "splatoon/marumisa_attack"
+	    ]
+	},
+	"splatoonseries.supertyakuti_voice" : {
+	    "sounds":[
+		    "splatoon/supertyakuti"
+	    ]
+	},
+	"splatoonseries.supertyakuti_start" : {
+	    "sounds":[
+		    "splatoon/supertyakuti_start"
+	    ]
+	},
+	"splatoonseries.supertyakuti_tyakuti" : {
+	    "sounds":[
+		    "splatoon/supertyakuti_tyakuti"
+	    ]
+	},
+	"splatoonseries.specialcharge" : {
+	    "sounds":[
+		    "splatoon/specialcharge"
+	    ]
+	},
+	"environment.wind1" : {
+	    "sounds":[
+		    "environment/wind"
+	    ]
+	},
+	"genshin.musou_voice" : {
+	    "sounds":[
+		    "genshin/musou_voice"
+	    ]
+	}
+}
