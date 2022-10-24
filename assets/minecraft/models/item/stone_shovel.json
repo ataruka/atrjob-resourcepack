@@ -1,0 +1,19 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/stone_shovel"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 101}, "model": "item/sword/marumisa"},
+    { "predicate": {"custom_model_data": 102}, "model": "item/sword/marumisa2"},
+    { "predicate": {"custom_model_data": 103}, "model": "item/sword/multimissilebullet"},
+    { "predicate": {"custom_model_data": 104}, "model": "item/splatoon/supasyobullet1"},
+    { "predicate": {"custom_model_data": 105}, "model": "item/splatoon/supasyobullet2"},
+    { "predicate": {"custom_model_data": 106}, "model": "item/splatoon/supasyobullet3"},
+    { "predicate": {"custom_model_data": 107}, "model": "item/splatoon/supasyobullet4"},
+    { "predicate": {"custom_model_data": 108}, "model": "item/splatoon/supasyobullet5"},
+    { "predicate": {"custom_model_data": 109}, "model": "item/splatoon/supasyobullet6"},
+    { "predicate": {"custom_model_data": 110}, "model": "item/splatoon/supasyobullet7"}
+    
+  ]
+}
