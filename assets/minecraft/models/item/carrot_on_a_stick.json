@@ -10,6 +10,8 @@
     { "predicate": {"custom_model_data": 103}, "model": "item/splatoon/supasyo3"},
     { "predicate": {"custom_model_data": 1003}, "model": "item/sword/skill6"},
     { "predicate": {"custom_model_data": 1004}, "model": "item/sword/skill6_0"},
+    { "predicate": {"custom_model_data": 1005}, "model": "item/sword/skill8"},
+    { "predicate": {"custom_model_data": 1006}, "model": "item/sword/skill8_0"},
     { "predicate": {"custom_model_data": 1007}, "model": "item/sword/skill9_1"},
     { "predicate": {"custom_model_data": 1008}, "model": "item/sword/skill9_2"},
     { "predicate": {"custom_model_data": 1009}, "model": "item/sword/skill9_3"},
