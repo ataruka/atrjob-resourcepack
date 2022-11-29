@@ -16,6 +16,9 @@
     { "predicate": {"custom_model_data": 1008}, "model": "item/sword/skill9_2"},
     { "predicate": {"custom_model_data": 1009}, "model": "item/sword/skill9_3"},
     { "predicate": {"custom_model_data": 1010}, "model": "item/sword/skill9_4"},
-    { "predicate": {"custom_model_data": 1011}, "model": "item/sword/skill9_0"}
+    { "predicate": {"custom_model_data": 1011}, "model": "item/sword/skill9_0"},
+    { "predicate": {"custom_model_data": 1012}, "model": "item/sword/skill10/skill10_1012"},
+    { "predicate": {"custom_model_data": 1013}, "model": "item/sword/skill10/skill10_1013"},
+    { "predicate": {"custom_model_data": 1014}, "model": "item/sword/skill10/skill10_1014"}
   ]
 }
